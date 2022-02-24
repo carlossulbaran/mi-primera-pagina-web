@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+#logoInicio{
+    height: 6em;
+    width:auto;
+    border: 0.01em solid black; 
+    background-color: rgb(13, 91, 255);
+    
+}
+
+header{
+    height: 8em;
+    width:auto;
+    border: 0.01em solid black; 
+    background-color: rgb(12, 141, 232);
+
+}
+
+main{
+    height: 50em;
+    width:auto;
+    border: 0.01em solid black; 
+    background-color: rgb(1, 216, 255);
+}
+
+footer{
+    height: 8em;
+    width:auto;
+    border: 0.01em solid black; 
+    background-color: rgb(13, 255, 157);
+}
